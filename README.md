@@ -11,17 +11,18 @@ Adult income dataset https://www.kaggle.com/datasets/wenruliu/adult-income-datas
 - Also, a boxplot was visualized for my numerical column.
 - And a heatmap was used to find correlations between my features and the target.
 - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
-![download (4)](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/8681cab5-7999-42a9-ada8-d6e4b8fdaf10)
+![download (6)](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/410c5b1c-b54b-4a0f-978a-565a1fed8f23)
+
     - From the above plot, we can deduce that;
       
-        - Most of the people having income less than or equal to 50K are between age 28-48
-      
-        - Most of the people having income more than 50K are between age 36-51
+        - Occupations most individuals covered were the ones with specialities
+          
+        - The least was a Private house server.
+![download (7)](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/665119de-5962-42a0-8b4f-d18ecea048c8)
 
-  ![download (5)](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/89b5eb9c-b154-452c-8e35-a7556e21d047)
-    - There are no moderate or strong coorelations between our features.
-  
-    - Since all of the values were below 0.3 in magnitude, we did not identify any relationships between variables in our dataset.
+    - The most relationship status of individuals who have incomes are known to be husbands.
+ 
+    - Wives(excluding "Others") were the least ones to have incomes in a household.
  
 # Best Model Metrics
 The best model for predicting our adult's incomes was built using a KNN Classification algorithm. The following metrics were achieved on the test set:
