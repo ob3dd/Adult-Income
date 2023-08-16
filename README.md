@@ -18,6 +18,8 @@ Adult income dataset https://www.kaggle.com/datasets/wenruliu/adult-income-datas
         - Occupations most individuals covered were the ones with specialities
           
         - The least was a Private house server.
+
+     
 ![download (7)](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/665119de-5962-42a0-8b4f-d18ecea048c8)
 
     - The most relationship status of individuals who have incomes are known to be husbands.
