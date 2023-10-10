@@ -53,7 +53,7 @@ The best model for predicting our adult's incomes was built using a KNN Classifi
 The KNN classification model demonstrated an accuracy of 84%, which means it can accurately predict which customer makes less than $50k and which makes more. This predictive power allows the marketing and customer retention teams to proactively identify every adult's income in the database.
 
 # Summary
-The KNN classification model provides valuable insights into an adult's income. The analysis revealed that mot adults in their late 20s to late 40s have less than $50k income and most adults in their mid 30s to early 50s have more than $50k income.
+The KNN classification model provides valuable insights into an adult's income. The analysis revealed that most adults in their late 20s to late 40s have less than $50k income and most adults in their mid 30s to early 50s have more than $50k income.
 
 # Recommendation
 
