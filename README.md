@@ -1,7 +1,7 @@
 ![Header-38-800x450](https://github.com/ob3dd/Adult-Income-and-Wine-Quality-/assets/133266342/ad2e403c-b8ea-4422-9edf-619d0d03b5dc)
 # Adult Income
-This is where I will be exploring, analyzing, and gaining valuable insights from two diverse and fascinating datasets: "Adult Income" and "Wine Quality.", and also pick one to work with.
-I chose to work on the "Adult Income"
+This is where I will be exploring, analyzing, and gaining valuable insights from a diverse and fascinating dataset: "Adult Income".
+
 # Business Description and Stakeholders
 This dataset is about the income made by adults from all kinds of demographic. Giving an individual's annual income from various factors, but also influenced by their paths across life.
 # Source of Data: 
@@ -53,8 +53,7 @@ The best model for predicting our adult's incomes was built using a KNN Classifi
 The KNN classification model demonstrated an accuracy of 84%, which means it can accurately predict which customer makes less than $50k and which makes more. This predictive power allows the marketing and customer retention teams to proactively identify every adult's income in the database.
 
 # Summary
-The KNN classification model provides valuable insights into an adult's income. The analysis revealed that most adults in their late 20s to late 40s have less than $50k income and most adults in their mid 30s to early 50s have more than $50k income.
+The insights gotten from our prediction was, those with degrees like the prof-speciality occupations. These include occupations that requires highly specialized training or experience. Also jobs one can get with a bachelor’s degree. P=Being a private house server or waiter didn't make that much income.
 
 # Recommendation
-
-I would recommend  boosting the models to find a much better accuracy, probably using the SMOTHE technique. 
+I would recommend government increasing the minimum wage of individuals, make housing affordable for people to buy and live in, promote financial literacy and promote entrepreneurship. Thus would help in the increase of individual's income and help them live better financially. 
