@@ -53,7 +53,7 @@ The best model for predicting our adult's incomes was built using a KNN Classifi
 The KNN classification model demonstrated an accuracy of 84%, which means it can accurately predict which customer makes less than $50k and which makes more. This predictive power allows the marketing and customer retention teams to proactively identify every adult's income in the database.
 
 # Summary
-The insights gotten from our prediction was, those with degrees like the prof-speciality occupations. These include occupations that requires highly specialized training or experience. Also jobs one can get with a bachelor’s degree. P=Being a private house server or waiter didn't make that much income.
+The insights gotten from our prediction was, those with degrees like the prof-speciality occupations. These include occupations that requires highly specialized training or experience. Also jobs one can get with a bachelor’s degree. Being a private house server or waiter didn't make that much income.
 
 # Recommendation
 I would recommend government increasing the minimum wage of individuals, make housing affordable for people to buy and live in, promote financial literacy and promote entrepreneurship. Thus would help in the increase of individual's income and help them live better financially. 
